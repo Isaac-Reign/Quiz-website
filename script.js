@@ -9,7 +9,7 @@ let totalQuestion = document.querySelector('.score')
 let scoresBoard = document.querySelector('.scores-board')
 let performance = document.querySelector('.perform');
 let orderQuestions, currentQuestion;
-// console.log();
+// console.log(); Output
 let userScore = 5;
 
 startButtonElement.addEventListener('click', nowGameStart)
